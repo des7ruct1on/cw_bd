@@ -1,0 +1,14 @@
+{
+    "database": {
+        "host": "db",
+        "port": 5432,
+        "user": "admin",
+        "password": "admin",
+        "dbname": "ultragedy"
+    },
+    "jwt": {
+      "jwt_secret_key": "you_gotta_get_high_like_me",
+      "jwt_algorithm": "HS256",
+      "jwt_expiration_days": 90
+    }
+}

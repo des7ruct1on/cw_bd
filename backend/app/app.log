@@ -1,0 +1,57 @@
+2024-12-24 01:28:12,592 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:12,592 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:28:15,441 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:15,441 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:28:15,446 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:15,446 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:28:30,757 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:30,759 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:28:30,802 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:30,802 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:28:55,209 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:55,210 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:28:55,216 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:28:55,216 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:30:15,912 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:30:15,913 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:30:15,926 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:30:15,926 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:33:49,125 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:33:49,126 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:33:49,130 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:33:49,130 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:39:26,735 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:39:26,735 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 01:39:26,739 - logger - ERROR - Failed to log to database: insert or update on table "log_table" violates foreign key constraint "log_table_user_id_fkey"
+DETAIL:  Key (user_id)=(-1) is not present in table "users".
+2024-12-24 01:39:26,739 - logger - INFO - Action: GET_PRODUCTS_ERROR__500: An unexpected error occurred., User ID: -1
+2024-12-24 11:15:29,645 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 11:15:29,646 - logger - INFO - Action: REGISTER_ERROR__401: Invalid credentials., User ID: -1
+2024-12-24 21:18:51,304 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:18:51,306 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:18:51,313 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:18:51,314 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:22:02,842 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:22:02,844 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:22:02,858 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:22:02,858 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:22:28,605 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:22:28,605 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:22:28,612 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:22:28,612 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:22:29,206 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:22:29,206 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
+2024-12-24 21:22:29,213 - logger - ERROR - Failed to log to database: User with id -1 does not exist
+2024-12-24 21:22:29,214 - logger - INFO - Action: GET_USER_ERROR__401: Invalid token., User ID: -1
